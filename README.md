@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/zafer.klc0/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/zafer_kilic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:alicesoftware.tr@gmail.com?subject=Hello%20Zafer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+
 </p>
 
 <br>
@@ -63,7 +63,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaferkilic&theme=radical" width="37%" alt="Sameer's Top Languages">
 
 <p align="center">
-    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+    M1000 Loves everyone.
 </p>
 
 -----

@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/sameer1604" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/zaferkilic" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <a href="https://www.instagram.com/zafer.klc0/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/zafer_kilic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:alicesoftware.tr@gmail.com@gmail.com?subject=Hello%20Sameer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:alicesoftware.tr@gmail.com@gmail.com?subject=Hello%20Zafer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
@@ -25,15 +25,16 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 ### I am a Full Stack Developer
-- 💻 SDE Intern @ <a href="https://pureid.io">PureID </a>
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Android Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 💻 Artificial Intelligence developer for <a href="https://zaferkilic.github.io/">Alice </a>
+- 🔭 I'm Teaching Alice Right Now
+- 🌱 I'm currently doing Rocket avionics with C++
+- 👯 I’m looking to collaborate with other Developers 
+- 🥅 2022 Goals: Assisting in AI-powered projects
+- 💬 Ask me about anything, I am happy to help 
+- 📬 How to contact me: : M1000#8093
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ Fun fact: I love connecting with different people 
+- 💕 I develop for the people I love.
 
 <br>
 
@@ -49,7 +50,6 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <br>
 <br>
 <br>

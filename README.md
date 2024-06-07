@@ -1,6 +1,8 @@
 # 💫 About Me:
-🚀 I am currently dealing with Alice and Model rocket avionics systems<br>🧠 Hosting I want to cooperate with artificial intelligence companies<br>🤝 I need help with stable diffusion<br>📚 I'm currently trying to learn stable diffusion and Swift<br>💬 You can ask questions about Python and Arduino C++
-
+🚀 I am currently dealing with AliceAI and Model rocket avionics systems<br>
+🧠 Arduino and Python Developer<br>
+🤝 I need help with NLP<br>
+📚 I'm currently trying to learn stable diffusion<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qF5g5neQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zafer.klc0) 
